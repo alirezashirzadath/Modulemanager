@@ -1,0 +1,13 @@
+{
+    "name": "Modulemanager",
+    "alias": "modulemanager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Modulemanager\\Providers\\ModulemanagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
